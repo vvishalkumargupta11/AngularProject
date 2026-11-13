@@ -1,4 +1,4 @@
 # AngularProject
+Author : Vishal
 
-Name :Vishal Kumar Gupta
-Ranchi
+Hi this is Vishal Kumar Gupta 
